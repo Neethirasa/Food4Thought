@@ -1,0 +1,16 @@
+{
+    "name": "food4thought",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "author": "Louis D. Nel",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.1",
+        "request": "^2.81.0"
+    }
+}
